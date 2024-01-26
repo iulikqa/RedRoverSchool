@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="RedRover_Task1_and_task2">
-      <change afterPath="$PROJECT_DIR$/src/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" />
-    </list>
+    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="RedRover_HomeWrok1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1706106728924</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="RedRover_Task1_task2_and_Extra_Tasck">
+      <option name="closed" value="true" />
+      <created>1706292158126</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706292158126</updated>
+    </task>
+    <task id="LOCAL-00003" summary="RedRover_HomeWrok1">
+      <option name="closed" value="true" />
+      <created>1706292184545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706292184545</updated>
+    </task>
+    <task id="LOCAL-00004" summary="RedRover_HomeWrok1">
+      <option name="closed" value="true" />
+      <created>1706292194638</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706292194638</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,6 +204,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RedRover_Task1_and_task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="RedRover_Task1_and_task2" />
+    <MESSAGE value="RedRover_HomeWork!" />
+    <MESSAGE value="RedRover_HomeWork1" />
+    <MESSAGE value="RedRover_Task1_task2_and_Extra_Tasck" />
+    <MESSAGE value="RedRover_HomeWrok1" />
+    <option name="LAST_COMMIT_MESSAGE" value="RedRover_HomeWrok1" />
   </component>
 </project>
