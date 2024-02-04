@@ -1,3 +1,5 @@
+package HW;
+
 public class HW2 {
     public static void main(String[] args) {
         /*Необходимо создать целочисленные переменные a и b, присвоить произвольные значения переменным на ваш выбор и
