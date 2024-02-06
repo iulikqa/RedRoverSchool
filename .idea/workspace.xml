@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Task2.java">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Eng.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/cheburashka.java" afterDir="false" />
+    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW3">
+      <change afterPath="$PROJECT_DIR$/src/HW/HW4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW4_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/cycles_and_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lessons/Eng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Eng.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +64,16 @@
     "Application.HW1.executor": "Run",
     "Application.HW2.executor": "Run",
     "Application.HW3.executor": "Run",
+    "Application.HW4_1.executor": "Run",
+    "Application.HW4_2.executor": "Run",
+    "Application.If_else_boolean.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.cheburashka.executor": "Run",
+    "Application.cycles.executor": "Run",
+    "Application.cycles_and_array.executor": "Run",
+    "Application.if_else_boolean.executor": "Run",
+    "Application.nb.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -79,7 +85,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW3">
+  <component name="RunManager" selected="Application.HW4_2">
     <configuration name="Eng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lessons.Eng" />
       <module name="RedRoverSchool" />
@@ -87,22 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW1" />
-      <module name="RedRoverSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW2" />
-      <module name="RedRoverSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW3" />
+    <configuration name="HW4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW4_1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -114,27 +106,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cheburashka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.cheburashka" />
+    <configuration name="HW4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW4_2" />
       <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cycles_and_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.cycles_and_array" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="if_else_boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lessons.if_else_boolean" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lessons.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.HW4_1" />
+      <item itemvalue="Application.HW4_2" />
+      <item itemvalue="Application.cycles_and_array" />
+      <item itemvalue="Application.if_else_boolean" />
       <item itemvalue="Application.Eng" />
-      <item itemvalue="Application.HW3" />
-      <item itemvalue="Application.cheburashka" />
-      <item itemvalue="Application.HW2" />
-      <item itemvalue="Application.HW1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW3" />
+        <item itemvalue="Application.HW4_2" />
+        <item itemvalue="Application.cycles_and_array" />
+        <item itemvalue="Application.HW4_1" />
         <item itemvalue="Application.Eng" />
-        <item itemvalue="Application.cheburashka" />
-        <item itemvalue="Application.HW2" />
-        <item itemvalue="Application.HW1" />
+        <item itemvalue="Application.if_else_boolean" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706300241504</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="HW3">
+      <option name="closed" value="true" />
+      <created>1707079303164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1707079303164</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -282,6 +314,7 @@
     <MESSAGE value="RedRover_Task1_task2_and_Extra_Tasck" />
     <MESSAGE value="RedRover_HomeWrok1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Task2.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Task2.java" />
+    <MESSAGE value="HW3" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
   </component>
 </project>
