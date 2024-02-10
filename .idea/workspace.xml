@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW3">
-      <change afterPath="$PROJECT_DIR$/src/HW/HW4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/cycles_and_array.java" afterDir="false" />
+    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW4_1 &amp; HW4_2">
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task1_checkDivisibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task2_TemperatureAdviser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task3_СalculatorOfEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task4_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task5_LookingForPrimeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lessons/Eng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lessons/Eng.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +68,23 @@
     "Application.HW3.executor": "Run",
     "Application.HW4_1.executor": "Run",
     "Application.HW4_2.executor": "Run",
+    "Application.HW5_1 (1).executor": "Run",
+    "Application.HW5_1.executor": "Run",
+    "Application.HW5_2.executor": "Run",
     "Application.If_else_boolean.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task2_TemperatureAdviser.executor": "Run",
+    "Application.Task3_СalculatorOfEvenNumbers.executor": "Run",
+    "Application.Task4_MultiplicationTable.executor": "Run",
+    "Application.Task5_LookingForPrimeNumbers.executor": "Run",
     "Application.cheburashka.executor": "Run",
+    "Application.checkDivisibility.executor": "Run",
     "Application.cycles.executor": "Run",
     "Application.cycles_and_array.executor": "Run",
     "Application.if_else_boolean.executor": "Run",
     "Application.nb.executor": "Run",
+    "Application.part_2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -85,16 +96,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW4_2">
-    <configuration name="Eng" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.Eng" />
-      <module name="RedRoverSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW4_1" />
+  <component name="RunManager" selected="Application.HW5_2">
+    <configuration name="HW5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW4_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW4_2" />
+    <configuration name="HW5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_2" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -119,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cycles_and_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.cycles_and_array" />
+    <configuration name="Task3_СalculatorOfEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task3_СalculatorOfEvenNumbers" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="HW_with_Team.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +136,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="if_else_boolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lessons.if_else_boolean" />
+    <configuration name="Task4_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task4_MultiplicationTable" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lessons.*" />
+          <option name="PATTERN" value="HW_with_Team.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5_LookingForPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task5_LookingForPrimeNumbers" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_with_Team.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW4_1" />
-      <item itemvalue="Application.HW4_2" />
-      <item itemvalue="Application.cycles_and_array" />
-      <item itemvalue="Application.if_else_boolean" />
-      <item itemvalue="Application.Eng" />
+      <item itemvalue="Application.HW5_1" />
+      <item itemvalue="Application.HW5_2" />
+      <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
+      <item itemvalue="Application.Task4_MultiplicationTable" />
+      <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW4_2" />
-        <item itemvalue="Application.cycles_and_array" />
-        <item itemvalue="Application.HW4_1" />
-        <item itemvalue="Application.Eng" />
-        <item itemvalue="Application.if_else_boolean" />
+        <item itemvalue="Application.HW5_2" />
+        <item itemvalue="Application.HW5_1" />
+        <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
+        <item itemvalue="Application.Task4_MultiplicationTable" />
+        <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -259,7 +276,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707079303164</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="HW4_1 &amp; HW4_2">
+      <option name="closed" value="true" />
+      <created>1707251991146</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1707251991146</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -315,6 +340,7 @@
     <MESSAGE value="RedRover_HomeWrok1" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Task2.java" />
     <MESSAGE value="HW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW3" />
+    <MESSAGE value="HW4_1 &amp; HW4_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW4_1 &amp; HW4_2" />
   </component>
 </project>
