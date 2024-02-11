@@ -14,12 +14,12 @@ public class HW2 {
 
         int a = 98;
         int b = 49;
-        System.out.println(a + b);
-        System.out.println(a - b);
-        System.out.println(a * b);
-        System.out.println(a / b);
-        System.out.println(a % b);
-        System.out.println(a % 2);
-        System.out.println(b % 2);
+        System.out.println("Cложение: " + (a + b));
+        System.out.println("Вычитание: " + (a - b));
+        System.out.println("Умножение: " + (a * b));
+        System.out.println("Деление: " + (a / b));
+        System.out.println("Остаток от деления: " + (a % b));
+        System.out.println("Проверкп на четность переменной a: " + (a % 2) + " > четное");
+        System.out.println("Проверкп на четность переменной b: " + (b % 2) + " > не четно");
     }
 }

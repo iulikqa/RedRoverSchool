@@ -1,4 +1,4 @@
-package HW_with_Team;
+package HW_CrazyTesters.Less_3_to_5;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package HW_with_Team;
+package HW_CrazyTesters.Less_3_to_5;
 
 import java.util.Scanner;
 
@@ -11,15 +11,15 @@ public class Task5_LookingForPrimeNumbers {
         // Создаем объект Scanner для чтения ввода пользователя
         Scanner scanner = new Scanner(System.in);
 
-        // Просим пользователя ввести число N
-        System.out.print("Введите число N: ");
+        // Просим пользователя ввести число n
+        System.out.print("Введите число n: ");
 
         // Считываем введенное число
-        int N = scanner.nextInt();
+        int n = scanner.nextInt();
 
-        // Выводим простые числа меньше N
-        System.out.println("Простые числа меньше " + N + ":");
-        for (int i = 2; i < N; i++) {
+        // Выводим простые числа меньше n
+        System.out.println("Простые числа меньше " + n + ":");
+        for (int i = 2; i < n; i++) {
             if (isPrime(i)) {
                 System.out.print(i + " ");
             }

@@ -15,6 +15,8 @@ public class HW5_1 {
         }
         System.out.println("Сумма всех значений массива: " + sum);
 
+        System.out.println(" ");
+
 //        Задача №2
 //        Дан массив:
 //        int[] array = {9, 2, 6, 4, 5, 12, 7, 8, 6};
@@ -28,6 +30,9 @@ public class HW5_1 {
             }
         }
         System.out.println("Максимальное значение массива: " + max);
+
+        System.out.println(" ");
+
 
 //        Задача №3
 //        Дан массив:
@@ -43,6 +48,8 @@ public class HW5_1 {
         }
         System.out.println("Минимальное значение массива: " + min);
 
+        System.out.println(" ");
+
 
 //        Задача №4
 //        Дан массив:
@@ -57,6 +64,9 @@ public class HW5_1 {
             averageSum += array1[i];
         }
         System.out.println("Среднее арифметическое всех значений массива: " + averageSum / array1.length);
+
+        System.out.println(" ");
+
 
 //        Задача №5
 //        Дан массив:
@@ -75,13 +85,18 @@ public class HW5_1 {
 
         System.out.println("Сумма элементов массива: " + sum1);
 
+        System.out.println(" ");
+
 
 //        Задача №6
 //        Дан массив:
 //        int[][] array = {{1, 2, 3, 4, 5}, {6, 7, 8, 9}, {-1, -2, -3, -4}, {-5, -6}};
 //        необходимо вывести максимальное значение массива.
 
-        int[][] array3 = {{1, 2, 3, 4, 5}, {6, 7, 8, 9}, {-1, -2, -3, -4}, {-5, -6}};
+        int[][] array3 = {{1, 2, 3, 4, 5},
+                            {6, 7, 8, 9},
+                            {-1, -2, -3, -4},
+                            {-5, -6}};
 
         int max2 = Integer.MIN_VALUE;
 
@@ -94,6 +109,8 @@ public class HW5_1 {
             }
         }
         System.out.println("Максимальное значение массива: " + max2);
+
+        System.out.println(" ");
 
 //        Задача №7
 //        Дан массив:

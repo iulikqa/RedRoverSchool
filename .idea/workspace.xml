@@ -4,15 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW4_1 &amp; HW4_2">
-      <change afterPath="$PROJECT_DIR$/src/HW/HW5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task1_checkDivisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task2_TemperatureAdviser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task3_СalculatorOfEvenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task4_MultiplicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_with_Team/Task5_LookingForPrimeNumbers.java" afterDir="false" />
+    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW5_1 &amp; HW5_2">
+      <change afterPath="$PROJECT_DIR$/src/HW/HW6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW6_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_with_Team/Task1_checkDivisibility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task1_checkDivisibility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_with_Team/Task2_TemperatureAdviser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task2_TemperatureAdviser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_with_Team/Task3_СalculatorOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task3_СalculatorOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_with_Team/Task4_MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task4_MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_with_Team/Task5_LookingForPrimeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task5_LookingForPrimeNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,10 +76,12 @@
     "Application.HW4_2.executor": "Run",
     "Application.HW5_1 (1).executor": "Run",
     "Application.HW5_1.executor": "Run",
-    "Application.HW5_2.executor": "Run",
+    "Application.HW5_2.executor": "Debug",
+    "Application.HW6_1.executor": "Run",
     "Application.If_else_boolean.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task1_checkDivisibility.executor": "Run",
     "Application.Task2_TemperatureAdviser.executor": "Run",
     "Application.Task3_СalculatorOfEvenNumbers.executor": "Run",
     "Application.Task4_MultiplicationTable.executor": "Run",
@@ -96,22 +104,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW5_2">
-    <configuration name="HW5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5_1" />
-      <module name="RedRoverSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HW5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5_2" />
+  <component name="RunManager" selected="Application.gffg">
+    <configuration name="HW6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW6_1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +119,11 @@
       </method>
     </configuration>
     <configuration name="Task3_СalculatorOfEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task3_СalculatorOfEvenNumbers" />
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task3_СalculatorOfEvenNumbers" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_with_Team.*" />
+          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +132,11 @@
       </method>
     </configuration>
     <configuration name="Task4_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task4_MultiplicationTable" />
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task4_MultiplicationTable" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_with_Team.*" />
+          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +145,24 @@
       </method>
     </configuration>
     <configuration name="Task5_LookingForPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_with_Team.Task5_LookingForPrimeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task5_LookingForPrimeNumbers" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_with_Team.*" />
+          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gffg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.gffg" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,16 +171,16 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW5_1" />
-      <item itemvalue="Application.HW5_2" />
+      <item itemvalue="Application.HW6_1" />
+      <item itemvalue="Application.gffg" />
       <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
       <item itemvalue="Application.Task4_MultiplicationTable" />
       <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW5_2" />
-        <item itemvalue="Application.HW5_1" />
+        <item itemvalue="Application.gffg" />
+        <item itemvalue="Application.HW6_1" />
         <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
         <item itemvalue="Application.Task4_MultiplicationTable" />
         <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
@@ -284,7 +292,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707251991146</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707564010643</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1707564010643</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -341,6 +357,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;src/Task2.java" />
     <MESSAGE value="HW3" />
     <MESSAGE value="HW4_1 &amp; HW4_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW4_1 &amp; HW4_2" />
+    <MESSAGE value="HW5_1 &amp; HW5_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW5_1 &amp; HW5_2" />
   </component>
 </project>

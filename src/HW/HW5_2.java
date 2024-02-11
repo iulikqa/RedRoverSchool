@@ -16,19 +16,17 @@ public class HW5_2 {
 //        0  1
 //        0
         System.out.println("Задача №1");
-//      Инициализация переменной rows и внешний цикл для строк:
-        int pyramid = 10;
 
         // Внешний цикл для управления строками
-        for (int i = 0; i < pyramid; i++) {
+        for (int i = 0; i < 10; i++) {
             // Внутренний цикл для управления столбцами и вывода чисел
-            for (int j = 0; j < pyramid - i; j++) {
+            for (int j = 0; j < 10 - i; j++) {
                 System.out.print(j + " ");
             }
-
             // Переход на новую строку после вывода каждой строки
             System.out.println();
         }
+        System.out.println(" ");
 
 
 //        Задача №2
