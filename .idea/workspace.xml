@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW5_1 &amp; HW5_2">
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task10_hollowPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task6_lookingForMaximumAndMinimum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task7_floydsTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task8_diamondShape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task9_evenOutTheOddsZeroingEvenElementsInAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task6_lookingForMaximumAndMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task6_lookingForMaximumAndMinimum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task7_floydsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task7_floydsTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task8_diamondShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task8_diamondShape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,50 +56,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Eng.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Extra_Task_Smiley.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FancyText.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW4_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW4_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW5_1 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW5_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HW5_2.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.HW6_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.If_else_boolean.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task1_checkDivisibility.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2_TemperatureAdviser.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task3_СalculatorOfEvenNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task4_MultiplicationTable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task5_LookingForPrimeNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cheburashka.executor&quot;: &quot;Run&quot;,
-    &quot;Application.checkDivisibility.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cycles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.cycles_and_array.executor&quot;: &quot;Run&quot;,
-    &quot;Application.gffg.executor&quot;: &quot;Run&quot;,
-    &quot;Application.if_else_boolean.executor&quot;: &quot;Run&quot;,
-    &quot;Application.nb.executor&quot;: &quot;Run&quot;,
-    &quot;Application.part_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Eng.executor": "Run",
+    "Application.Extra_Task_Smiley.executor": "Run",
+    "Application.FancyText.executor": "Run",
+    "Application.HW1.executor": "Run",
+    "Application.HW2.executor": "Run",
+    "Application.HW3.executor": "Run",
+    "Application.HW4_1.executor": "Run",
+    "Application.HW4_2.executor": "Run",
+    "Application.HW5_1 (1).executor": "Run",
+    "Application.HW5_1.executor": "Run",
+    "Application.HW5_2.executor": "Debug",
+    "Application.HW6_1.executor": "Run",
+    "Application.HW6_2.executor": "Run",
+    "Application.If_else_boolean.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task1_checkDivisibility.executor": "Run",
+    "Application.Task2_TemperatureAdviser.executor": "Run",
+    "Application.Task3_СalculatorOfEvenNumbers.executor": "Run",
+    "Application.Task4_MultiplicationTable.executor": "Run",
+    "Application.Task5_LookingForPrimeNumbers.executor": "Run",
+    "Application.Task6_lookingForMaximumAndMinimum.executor": "Run",
+    "Application.Task7_floydsTriangle.executor": "Run",
+    "Application.Task8_diamondShape.executor": "Run",
+    "Application.cheburashka.executor": "Run",
+    "Application.checkDivisibility.executor": "Run",
+    "Application.cycles.executor": "Run",
+    "Application.cycles_and_array.executor": "Run",
+    "Application.gffg.executor": "Run",
+    "Application.if_else_boolean.executor": "Run",
+    "Application.nb.executor": "Run",
+    "Application.part_2.executor": "Run",
+    "Application.sdf.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.gffg">
-    <configuration name="HW6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW6_1" />
+}]]></component>
+  <component name="RunManager" selected="Application.Task8_diamondShape">
+    <configuration name="HW6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW6_2" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3_СalculatorOfEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task3_СalculatorOfEvenNumbers" />
+    <configuration name="Task6_lookingForMaximumAndMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task6_lookingForMaximumAndMinimum" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -124,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4_MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task4_MultiplicationTable" />
+    <configuration name="Task7_floydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task7_floydsTriangle" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -137,8 +142,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5_LookingForPrimeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task5_LookingForPrimeNumbers" />
+    <configuration name="Task8_diamondShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task8_diamondShape" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -150,12 +155,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="gffg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.gffg" />
+    <configuration name="sdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.sdf" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.*" />
+          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +169,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW6_1" />
-      <item itemvalue="Application.gffg" />
-      <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
-      <item itemvalue="Application.Task4_MultiplicationTable" />
-      <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
+      <item itemvalue="Application.HW6_2" />
+      <item itemvalue="Application.Task6_lookingForMaximumAndMinimum" />
+      <item itemvalue="Application.Task7_floydsTriangle" />
+      <item itemvalue="Application.Task8_diamondShape" />
+      <item itemvalue="Application.sdf" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.gffg" />
-        <item itemvalue="Application.HW6_1" />
-        <item itemvalue="Application.Task5_LookingForPrimeNumbers" />
-        <item itemvalue="Application.Task4_MultiplicationTable" />
-        <item itemvalue="Application.Task3_СalculatorOfEvenNumbers" />
+        <item itemvalue="Application.Task8_diamondShape" />
+        <item itemvalue="Application.Task6_lookingForMaximumAndMinimum" />
+        <item itemvalue="Application.Task7_floydsTriangle" />
+        <item itemvalue="Application.sdf" />
+        <item itemvalue="Application.HW6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +306,23 @@
       <option name="project" value="LOCAL" />
       <updated>1707656510585</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707679902205</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1707679902205</updated>
+    </task>
+    <task id="LOCAL-00015" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707679971548</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1707679971548</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
