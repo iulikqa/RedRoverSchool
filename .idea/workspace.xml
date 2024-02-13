@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW5_1 &amp; HW5_2">
+      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/d.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task6_lookingForMaximumAndMinimum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task6_lookingForMaximumAndMinimum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task7_floydsTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task7_floydsTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task8_diamondShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task8_diamondShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task10_hollowPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task10_hollowPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task9_evenOutTheOddsZeroingEvenElementsInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task9_evenOutTheOddsZeroingEvenElementsInAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +72,7 @@
     "Application.If_else_boolean.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
+    "Application.Task10_hollowPyramid.executor": "Run",
     "Application.Task1_checkDivisibility.executor": "Run",
     "Application.Task2_TemperatureAdviser.executor": "Run",
     "Application.Task3_СalculatorOfEvenNumbers.executor": "Run",
@@ -82,10 +81,12 @@
     "Application.Task6_lookingForMaximumAndMinimum.executor": "Run",
     "Application.Task7_floydsTriangle.executor": "Run",
     "Application.Task8_diamondShape.executor": "Run",
+    "Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray.executor": "Run",
     "Application.cheburashka.executor": "Run",
     "Application.checkDivisibility.executor": "Run",
     "Application.cycles.executor": "Run",
     "Application.cycles_and_array.executor": "Run",
+    "Application.d.executor": "Run",
     "Application.gffg.executor": "Run",
     "Application.if_else_boolean.executor": "Run",
     "Application.nb.executor": "Run",
@@ -102,9 +103,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task8_diamondShape">
-    <configuration name="HW6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW6_2" />
+  <component name="RunManager" selected="Application.Task10_hollowPyramid">
+    <configuration name="HW6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW6_1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -116,21 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task6_lookingForMaximumAndMinimum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task6_lookingForMaximumAndMinimum" />
-      <module name="RedRoverSchool" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task7_floydsTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task7_floydsTriangle" />
+    <configuration name="Task10_hollowPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task10_hollowPyramid" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -155,8 +143,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sdf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.sdf" />
+    <configuration name="Task9_evenOutTheOddsZeroingEvenElementsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.d" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -169,19 +170,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW6_2" />
-      <item itemvalue="Application.Task6_lookingForMaximumAndMinimum" />
-      <item itemvalue="Application.Task7_floydsTriangle" />
+      <item itemvalue="Application.d" />
+      <item itemvalue="Application.HW6_1" />
+      <item itemvalue="Application.Task10_hollowPyramid" />
+      <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
       <item itemvalue="Application.Task8_diamondShape" />
-      <item itemvalue="Application.sdf" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task10_hollowPyramid" />
+        <item itemvalue="Application.d" />
+        <item itemvalue="Application.HW6_1" />
+        <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
         <item itemvalue="Application.Task8_diamondShape" />
-        <item itemvalue="Application.Task6_lookingForMaximumAndMinimum" />
-        <item itemvalue="Application.Task7_floydsTriangle" />
-        <item itemvalue="Application.sdf" />
-        <item itemvalue="Application.HW6_2" />
       </list>
     </recent_temporary>
   </component>
@@ -322,7 +323,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707679971548</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707773437586</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1707773437586</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
