@@ -13,9 +13,8 @@ public class HW6_1 {
 
         // Поиск и вывод букв "о"
         for (int i = 0; i < s.length(); i++) {
-            char currentChar = s.charAt(i);
-            if (currentChar == 'о' || currentChar == 'О') {
-                System.out.print(currentChar);
+            if (s.charAt(i) == 'о') {
+                System.out.print(s.charAt(i));
             }
         }
         System.out.println();
@@ -31,13 +30,13 @@ public class HW6_1 {
         System.out.println("Задача №2");
         String s2 = "Перевыборы выбранного президента";
 
-        int count = 0;
+        int counts = 0;
         for (int i = 0; i < s2.length(); i++) {
             if (s2.charAt(i) == 'е') {
-                count++;
+                counts++;
             }
         }
-        System.out.println(count);
+        System.out.println(counts);
         System.out.println();
 
 
@@ -50,17 +49,13 @@ public class HW6_1 {
         System.out.println("Задача №3");
         String s3 = "Посмотрите как Рите нравится ритм";
 
-        String toFind = "рит";
+        s3 = s3.toLowerCase();
 
-        String lowerCaseS = s3.toLowerCase();
-        String lowerCaseSubstring = toFind.toLowerCase();
-
-        // Поиск и вывод индексов начала подстроки "рит" без учета регистра
-        System.out.println("Индексы начала подстроки 'рит' без учета регистра:");
-        int index = lowerCaseS.indexOf(lowerCaseSubstring);
-        while (index != -1) {
-            System.out.println(index);
-            index = lowerCaseS.indexOf(lowerCaseSubstring, index + 1);
+        for (int i = 0; i <= s3.length() - 3; i++) {
+            String subStr = s3.substring(i, i + 3);
+            if (subStr.equals("рит")) {
+                System.out.println(i);
+            }
         }
 
         System.out.println();
@@ -73,21 +68,16 @@ public class HW6_1 {
         System.out.println("Задача №4");
         String[][] array = {{"Привет", "всем", "кто"}, {"изучает", "язык", "программирования"}, {"java"}};
 
-        int count2 = 0;
+        int count = 0;
 
         for (int i = 0; i < array.length; i++) {
-            boolean containsE = false;
             for (int j = 0; j < array[i].length; j++) {
-                if (array[i][j].toLowerCase().contains("е")) {
-                    containsE = true;
-                    break;
+                if (!array[i][j].contains("е")) {
+                    count++;
                 }
             }
-            if (!containsE) {
-                count2++;
-            }
-            System.out.println(count2);
         }
+        System.out.println(count);
     }
 }
 

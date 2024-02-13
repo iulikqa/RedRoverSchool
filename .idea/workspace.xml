@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW5_1 &amp; HW5_2">
-      <change afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/d.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task10_hollowPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task10_hollowPyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task9_evenOutTheOddsZeroingEvenElementsInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW_CrazyTesters/Less_3_to_5/Task9_evenOutTheOddsZeroingEvenElementsInAnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +68,7 @@
     "Application.HW6_1.executor": "Run",
     "Application.HW6_2.executor": "Run",
     "Application.If_else_boolean.executor": "Run",
+    "Application.Kata.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task1.executor": "Run",
     "Application.Task10_hollowPyramid.executor": "Run",
@@ -103,7 +102,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Task10_hollowPyramid">
+  <component name="RunManager" selected="Application.HW6_1">
     <configuration name="HW6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW.HW6_1" />
       <module name="RedRoverSchool" />
@@ -117,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10_hollowPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task10_hollowPyramid" />
+    <configuration name="Kata" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Codewars.Kata" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
+          <option name="PATTERN" value="Codewars.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,8 +129,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8_diamondShape" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task8_diamondShape" />
+    <configuration name="Task10_hollowPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task10_hollowPyramid" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -170,19 +169,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Kata" />
       <item itemvalue="Application.d" />
       <item itemvalue="Application.HW6_1" />
       <item itemvalue="Application.Task10_hollowPyramid" />
       <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
-      <item itemvalue="Application.Task8_diamondShape" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW6_1" />
+        <item itemvalue="Application.Kata" />
         <item itemvalue="Application.Task10_hollowPyramid" />
         <item itemvalue="Application.d" />
-        <item itemvalue="Application.HW6_1" />
         <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
-        <item itemvalue="Application.Task8_diamondShape" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +330,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707773437586</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707852809301</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1707852809301</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
