@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW5_1 &amp; HW5_2">
+      <change afterPath="$PROJECT_DIR$/src/HW/HW7/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW7/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW7/Salary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW6_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,57 +55,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Eng.executor": "Run",
-    "Application.Extra_Task_Smiley.executor": "Run",
-    "Application.FancyText.executor": "Run",
-    "Application.HW1.executor": "Run",
-    "Application.HW2.executor": "Run",
-    "Application.HW3.executor": "Run",
-    "Application.HW4_1.executor": "Run",
-    "Application.HW4_2.executor": "Run",
-    "Application.HW5_1 (1).executor": "Run",
-    "Application.HW5_1.executor": "Run",
-    "Application.HW5_2.executor": "Debug",
-    "Application.HW6_1.executor": "Run",
-    "Application.HW6_2.executor": "Run",
-    "Application.If_else_boolean.executor": "Run",
-    "Application.Kata.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task10_hollowPyramid.executor": "Run",
-    "Application.Task1_checkDivisibility.executor": "Run",
-    "Application.Task2_TemperatureAdviser.executor": "Run",
-    "Application.Task3_СalculatorOfEvenNumbers.executor": "Run",
-    "Application.Task4_MultiplicationTable.executor": "Run",
-    "Application.Task5_LookingForPrimeNumbers.executor": "Run",
-    "Application.Task6_lookingForMaximumAndMinimum.executor": "Run",
-    "Application.Task7_floydsTriangle.executor": "Run",
-    "Application.Task8_diamondShape.executor": "Run",
-    "Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray.executor": "Run",
-    "Application.cheburashka.executor": "Run",
-    "Application.checkDivisibility.executor": "Run",
-    "Application.cycles.executor": "Run",
-    "Application.cycles_and_array.executor": "Run",
-    "Application.d.executor": "Run",
-    "Application.gffg.executor": "Run",
-    "Application.if_else_boolean.executor": "Run",
-    "Application.nb.executor": "Run",
-    "Application.part_2.executor": "Run",
-    "Application.sdf.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Eng.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Extra_Task_Smiley.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FancyText.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW4_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW4_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW5_2.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.HW6_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HW6_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.If_else_boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Kata.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task10_hollowPyramid.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1_checkDivisibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2_TemperatureAdviser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3_СalculatorOfEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4_MultiplicationTable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5_LookingForPrimeNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task6_lookingForMaximumAndMinimum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task7_floydsTriangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task8_diamondShape.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cheburashka.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkDivisibility.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cycles.executor&quot;: &quot;Run&quot;,
+    &quot;Application.cycles_and_array.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d.executor&quot;: &quot;Run&quot;,
+    &quot;Application.gffg.executor&quot;: &quot;Run&quot;,
+    &quot;Application.if_else_boolean.executor&quot;: &quot;Run&quot;,
+    &quot;Application.nb.executor&quot;: &quot;Run&quot;,
+    &quot;Application.part_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sdf.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.HW6_1">
+}</component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="HW6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW.HW6_1" />
       <module name="RedRoverSchool" />
@@ -129,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10_hollowPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task10_hollowPyramid" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW7.Main" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW_CrazyTesters.Less_3_to_5.*" />
+          <option name="PATTERN" value="HW.HW7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9_evenOutTheOddsZeroingEvenElementsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
+    <configuration name="Task10_hollowPyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW_CrazyTesters.Less_3_to_5.Task10_hollowPyramid" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
@@ -169,19 +172,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Kata" />
       <item itemvalue="Application.d" />
       <item itemvalue="Application.HW6_1" />
       <item itemvalue="Application.Task10_hollowPyramid" />
-      <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HW6_1" />
         <item itemvalue="Application.Kata" />
         <item itemvalue="Application.Task10_hollowPyramid" />
         <item itemvalue="Application.d" />
-        <item itemvalue="Application.Task9_evenOutTheOddsZeroingEvenElementsInAnArray" />
       </list>
     </recent_temporary>
   </component>
@@ -338,7 +341,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707852809301</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="HW5_1 &amp; HW5_2">
+      <option name="closed" value="true" />
+      <created>1707860399908</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1707860399908</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
