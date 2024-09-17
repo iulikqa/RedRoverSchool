@@ -1,8 +1,6 @@
 package HW;
 
-import java.util.Arrays;
-
-public class HW4_1 {
+public class HW4_1_old {
     public static void main(String[] args) {
 //        Задача №1
 //        Необходимо вывести числа от 0 до 15.
@@ -35,7 +33,7 @@ public class HW4_1 {
         System.out.println(" ");
 
 //Вариант №2
-        for (int i = 40; i <= 60; i = i + 4){
+        for (int i = 40; i <= 60; i = i + 4) {
             System.out.println(i);
         }
     }

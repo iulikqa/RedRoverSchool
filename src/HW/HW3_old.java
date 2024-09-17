@@ -1,6 +1,6 @@
 package HW;
 
-public class HW3 {
+public class HW3_old {
 
 //    Task 1
 //    Задача №1

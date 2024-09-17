@@ -2,7 +2,7 @@ package HW;
 
 import java.util.Arrays;
 
-public class HW4_2 {
+public class HW4_2_old {
     public static void main(String[] args) {
 //        Задача №1
 //        Дан массив:

@@ -1,6 +1,6 @@
-package HW;
+package HW.HW2;
 
-public class HW2 {
+public class HW2_1 {
     public static void main(String[] args) {
         /*Необходимо создать целочисленные переменные a и b, присвоить произвольные значения переменным на ваш выбор и
         вывести результаты следующих операций с этими переменными:
