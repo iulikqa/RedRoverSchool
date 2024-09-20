@@ -1,4 +1,4 @@
-package HW.HW5;
+package HW.HW5_Part_1;
 
 public class HW_5_4 {
     public static void main(String[] args) {
@@ -12,7 +12,7 @@ public class HW_5_4 {
         int[] array = {1, 2, 3, 4, 5, 6, 7, 8, 9};
         int sumArray = 0;
         for (int i = 0; i < array.length; i++) {
-             sumArray +=array[i];
+            sumArray +=array[i];
 
         }
         System.out.println(sumArray / array.length);

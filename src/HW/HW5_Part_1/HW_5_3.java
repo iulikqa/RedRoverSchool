@@ -1,4 +1,4 @@
-package HW.HW5;
+package HW.HW5_Part_1;
 
 public class HW_5_3 {
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class HW_5_3 {
             if (min > array[i]) {
                 min = array[i];
             }
-            System.out.println(min);
         }
+        System.out.println(min);
     }
 }

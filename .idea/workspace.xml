@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW9">
-      <change afterPath="$PROJECT_DIR$/src/HW/HW2/HW2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW3/HW3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW3/HW3_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW4/HW_4_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW4/HW_4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW4/HW_4_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW5/HW_5_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW5/HW_5_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HW/HW5/HW_5_3.java" afterDir="false" />
+    <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="HW_more">
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW1/HW1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW2/HW2_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW3_old.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW4_1_old.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HW/HW4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW4_2_old.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5/HW_5_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5/HW_5_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5/HW_5_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HW/HW5/HW_5_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HW/HW5_Part_1/HW_5_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +80,16 @@
     "Application.HW5_1 (1).executor": "Run",
     "Application.HW5_1.executor": "Run",
     "Application.HW5_2.executor": "Debug",
+    "Application.HW5_2_1.executor": "Run",
+    "Application.HW5_2_2.executor": "Run",
+    "Application.HW5_2_3.executor": "Run",
     "Application.HW6_1.executor": "Run",
     "Application.HW6_2.executor": "Run",
+    "Application.HW_5_1.executor": "Run",
     "Application.HW_5_123.executor": "Run",
     "Application.HW_5_2.executor": "Run",
     "Application.HW_5_3.executor": "Run",
+    "Application.HW_5_4.executor": "Run",
     "Application.If_else_boolean.executor": "Run",
     "Application.Kata.executor": "Run",
     "Application.Main.executor": "Run",
@@ -126,13 +125,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HW_5_4">
-    <configuration name="HW3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW3.HW3_3" />
+  <component name="RunManager" selected="Application.HW_5_2_1">
+    <configuration name="HW_5_2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_Part_2.HW_5_2_1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.HW3.*" />
+          <option name="PATTERN" value="HW.HW5_Part_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5.HW_5_1" />
+    <configuration name="HW_5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_Part_1.HW_5_5" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.HW5.*" />
+          <option name="PATTERN" value="HW.HW5_Part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5.HW_5_2" />
+    <configuration name="HW_5_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_Part_1.HW_5_6" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.HW5.*" />
+          <option name="PATTERN" value="HW.HW5_Part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5.HW_5_3" />
+    <configuration name="HW_5_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_Part_1.HW_5_7" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.HW5.*" />
+          <option name="PATTERN" value="HW.HW5_Part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +178,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HW_5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW.HW5.HW_5_4" />
+    <configuration name="HW_5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW5_Part_1.HW_5_8" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW.HW5.*" />
+          <option name="PATTERN" value="HW.HW5_Part_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,19 +192,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HW_5_123" />
-      <item itemvalue="Application.HW_5_2" />
-      <item itemvalue="Application.HW_5_3" />
-      <item itemvalue="Application.HW_5_4" />
-      <item itemvalue="Application.HW3_3" />
+      <item itemvalue="Application.HW_5_2_1" />
+      <item itemvalue="Application.HW_5_5" />
+      <item itemvalue="Application.HW_5_6" />
+      <item itemvalue="Application.HW_5_7" />
+      <item itemvalue="Application.HW_5_8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HW_5_4" />
-        <item itemvalue="Application.HW_5_3" />
-        <item itemvalue="Application.HW_5_2" />
-        <item itemvalue="Application.HW_5_123" />
-        <item itemvalue="Application.HW3_3" />
+        <item itemvalue="Application.HW_5_2_1" />
+        <item itemvalue="Application.HW_5_8" />
+        <item itemvalue="Application.HW_5_7" />
+        <item itemvalue="Application.HW_5_6" />
+        <item itemvalue="Application.HW_5_5" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +385,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708887611327</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="HW_more">
+      <option name="closed" value="true" />
+      <created>1726602141181</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726602141181</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -410,6 +417,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
@@ -445,6 +457,7 @@
     <MESSAGE value="HW4_1 &amp; HW4_2" />
     <MESSAGE value="HW5_1 &amp; HW5_2" />
     <MESSAGE value="HW9" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW9" />
+    <MESSAGE value="HW_more" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW_more" />
   </component>
 </project>

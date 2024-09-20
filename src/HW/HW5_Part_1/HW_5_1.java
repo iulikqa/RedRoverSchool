@@ -1,4 +1,4 @@
-package HW.HW5;
+package HW.HW5_Part_1;
 
 public class HW_5_1 {
     public static void main(String[] args) {
@@ -17,5 +17,4 @@ public class HW_5_1 {
         }
         System.out.println("Sum array = " + sumArray);
     }
-
 }
