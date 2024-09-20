@@ -1,6 +1,6 @@
-package HW;
+package HW.HW5_Part_3;
 
-public class HW5_2 {
+public class HW5_3 {
     public static void main(String[] args) {
 
 //        Вывести следующие строки с соответствующим форматированием (как пирамиды):
@@ -19,10 +19,13 @@ public class HW5_2 {
 
         // Внешний цикл для управления строками
         for (int i = 0; i < 10; i++) {
+
             // Внутренний цикл для управления столбцами и вывода чисел
             for (int j = 0; j < 10 - i; j++) {
+
                 System.out.print(j + " ");
             }
+
             // Переход на новую строку после вывода каждой строки
             System.out.println();
         }
@@ -82,8 +85,6 @@ public class HW5_2 {
                 System.out.print(j + " ");
             }
             System.out.println();
-
-
         }
     }
 }
