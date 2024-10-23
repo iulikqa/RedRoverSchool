@@ -1,4 +1,4 @@
-package JAVA_OOP_Mititelu.Employee.Incapsulation;
+package JAVA_OOP_University.Employee.Incapsulation;
 
 public class EmployeePart2 {
         public static void main(String[] args) {

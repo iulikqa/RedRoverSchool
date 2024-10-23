@@ -1,4 +1,4 @@
-package JAVA_OOP_Mititelu.Cars;
+package JAVA_OOP_University.Cars;
 
 public class CarsLab1 {
     //    Приватные поля

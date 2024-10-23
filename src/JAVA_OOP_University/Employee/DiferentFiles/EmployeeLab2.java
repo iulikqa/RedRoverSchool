@@ -1,4 +1,4 @@
-package JAVA_OOP_Mititelu.Employee.DiferentFiles;
+package JAVA_OOP_University.Employee.DiferentFiles;
 
 public class EmployeeLab2 {
     //   Приватные поля

@@ -1,4 +1,4 @@
-package JAVA_OOP_Mititelu.Employee.Incapsulation;
+package JAVA_OOP_University.Employee.Incapsulation;
 
 public class Employee {
     private int id;
