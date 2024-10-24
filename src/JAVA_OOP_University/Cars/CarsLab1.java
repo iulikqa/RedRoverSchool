@@ -1,6 +1,7 @@
 package JAVA_OOP_University.Cars;
 
 public class CarsLab1 {
+
     //    Приватные поля
     private String number;
     private String brend;
@@ -107,11 +108,11 @@ public class CarsLab1 {
         double exchangeRate = 20.46;
         firstCar.convertPriceToMDL(exchangeRate);
 
-        //    Изменение поля Цвет автомобиля
+        //    Изменение поля Марка автомобиля
         firstCar.setBrend("Mercedes-Benz");
 
         //    Отображение информации после конвертации цены в леях и зменение цвета автомобиля
-        System.out.println("\nПосле конвертации цены из EUR в MDL и зменение цвета автомобиля:");
+        System.out.println("\nПосле конвертации цены из EUR в MDL и изменение марки автомобиля:");
         firstCar.displayCarsInfo();
     }
 }
