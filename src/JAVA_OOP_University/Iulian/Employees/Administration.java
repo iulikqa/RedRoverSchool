@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Iulian.Employee.DiferentFiles;
+package JAVA_OOP_University.Iulian.Employees;
 
 // Класс Administration наследует EmployeeLab2
 public class Administration extends EmployeeLab2{

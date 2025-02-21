@@ -1,4 +1,5 @@
 package JAVA_OOP_University.Natalia.Lab5;
 
-public class ExceptionHandler {
+abstract class ExceptionHandler {
+    public abstract void handle();
 }

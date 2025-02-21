@@ -11,5 +11,6 @@ public class Main {
         int y2 = sc.nextInt();
         System.out.print((x1 * x2 > 0) & (y1 * y2 > 0) ? "Yes": "No");
 
+
     }
 }

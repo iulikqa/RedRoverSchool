@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Iulian;
+package JAVA_OOP_University.Iulian.Lab6;
 
 import JAVA_OOP_University.Iulian.Employees.EmployeeLab1;
 import java.util.*;
@@ -64,7 +64,7 @@ public class Lab6_EmployeeManager {
 
         Map<Integer, EmployeeLab1> employeeHashMap = new HashMap<>();
         for (EmployeeLab1 emp : employeeList) {
-            employeeHashMap.put(emp.getId(), emp);
+            employeeHashMap.put(Integer.valueOf(emp.getId()), emp);
         }
 
         System.out.println("\nВывод сотрудников из HashMap:");

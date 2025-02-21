@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Cars;
+package JAVA_OOP_University.Natalia.Cars;
 public class CarsLab2 {
     // Приватные поля
     private String number;

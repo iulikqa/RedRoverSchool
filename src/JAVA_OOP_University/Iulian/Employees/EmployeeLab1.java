@@ -1,11 +1,13 @@
-package JAVA_OOP_University.Iulian.Employee.DiferentFiles;
+package JAVA_OOP_University.Iulian.Employees;
 
-public class EmployeeLab1 {
+import java.io.Serializable;
+
+public class EmployeeLab1 implements Serializable{
     //   Приватные поля
     private int id;
     private String firstName;
     private String lastName;
-    private String position;
+    public String position;
     private String address;
     private String phone;
     public double salary;

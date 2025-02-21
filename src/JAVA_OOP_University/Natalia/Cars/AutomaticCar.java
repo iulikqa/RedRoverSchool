@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Cars;
+package JAVA_OOP_University.Natalia.Cars;
 
 // Класс автомобилей с автоматической коробкой передач
 public class AutomaticCar extends CarsLab2{

@@ -5,9 +5,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="97a78787-40c3-4698-8e41-a88aaf362c21" name="Changes" comment="OOP University">
-      <change afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Cars/CarsLab2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/Lab3/LagrangeInterpolationV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/Lab3/LagrangeInterpolationV4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Cars/CarsLab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Cars/CarsLab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Administration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Administration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/EmployeeLab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/EmployeeLab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/EmployeeLab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/EmployeeLab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/ExecutiveOwner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/ExecutiveOwner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Employees/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometricFigure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometricFigure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometricLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometricLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/GeometryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/IsoscelesTriangleLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/IsoscelesTriangleLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/RectangleLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab4/RectangleLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ArrayIndexOutOfBoundsExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ArrayIndexOutOfBoundsExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/DivisionByZeroExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/DivisionByZeroExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/InputMismatchExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/InputMismatchExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/NegativeSqrtExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/NegativeSqrtExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/NullPointerExceptionGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab5/NullPointerExceptionGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab6/Lab6_EmployeeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab6/Lab6_EmployeeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab7/EmployeesManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab7/EmployeesManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab8/EmployeesManagerSerializable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab8/EmployeesManagerSerializable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab9/EmployeeApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Iulian/Lab9/EmployeeApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/AutomaticCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/AutomaticCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsLab1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsLab1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsLab2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsLab2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/CarsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/GPSAutomaticCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Cars/GPSAutomaticCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/Convertible.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/Convertible.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/CurrencyExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/CurrencyExchange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/CurrencyExchangeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/CurrencyExchangeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/EuroToLeu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/EuroToLeu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/LeuToEuro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Exchange/LeuToEuro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ArrayAccessHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ArrayAccessHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/DivisionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/DivisionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionGeneratorHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionGeneratorHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionHandlingDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/ExceptionHandlingDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/InputNumberHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/InputNumberHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/NullPointerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/NullPointerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/SquareRootHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab5/SquareRootHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab6/CarLab6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab6/CarLab6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab7/CarsFileManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab7/CarsFileManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab8/CarsFileManager2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JAVA_OOP_University/Natalia/Lab8/CarsFileManager2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/BisectionMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/BisectionMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/LagrangeInterpolationV3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/LinearSystemSolverV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/Lab2/LinearSystemSolverV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/NumericalMethodsVar3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Iulian/Lab1/NumericalMethodsVar3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/LagrangeInterpolationV4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/LinearSystemSolverV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/Lab2/LinearSystemSolverV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/NumericalMethodsVar4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/HW_Natalia/Lab1/NumericalMethodsVar4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/RootSeparation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MetodeNumericeDeCalcul/RootSeparation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +71,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -26,20 +80,17 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-  }
+  &quot;lastFilter&quot;: {}
 }</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="08fde9da-56c8-4492-828e-9e3f6e4ada6f" />
-        <option name="url" value="https://github.com/iulikqa/RedRoverSchool" />
-      </UrlAndAccount>
-    </option>
-  </component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:iulikqa/RedRoverSchool.git&quot;,
+    &quot;accountId&quot;: &quot;8465b49c-a7c4-43f6-8390-806023b505a6&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -59,14 +110,29 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Administration.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AutomaticCar.executor&quot;: &quot;Run&quot;,
     &quot;Application.BisectionMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarLab6.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarsFileManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarsFileManager2.executor&quot;: &quot;Run&quot;,
     &quot;Application.CarsLab1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarsLab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CarsTest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrencyExchangeDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeeLab1.executor&quot;: &quot;Run&quot;,
     &quot;Application.EmployeeLab2.executor&quot;: &quot;Run&quot;,
     &quot;Application.EmployeePart2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeesManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EmployeesManagerSerializable.executor&quot;: &quot;Run&quot;,
     &quot;Application.Eng.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandlingExamples.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecutiveOwner.executor&quot;: &quot;Run&quot;,
     &quot;Application.Extra_Task_Smiley.executor&quot;: &quot;Run&quot;,
     &quot;Application.FancyText.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeometryTest.executor&quot;: &quot;Run&quot;,
     &quot;Application.HW.HW9.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.HW1.executor&quot;: &quot;Run&quot;,
     &quot;Application.HW2.executor&quot;: &quot;Run&quot;,
@@ -94,8 +160,19 @@
     &quot;Application.HW_5_8.executor&quot;: &quot;Run&quot;,
     &quot;Application.If_else_boolean.executor&quot;: &quot;Run&quot;,
     &quot;Application.JAVA_OOP_Mititelu.Employee.DiferentFiles.EmployeeLab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JAVA_OOP_University.Employee.DiferentFiles.EmployeeLab2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JAVA_OOP_University.Iulian.Lab5.ExceptionHandlingDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.Kata.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab6_EmployeeManager.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LagrangeInterpolationV3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LagrangeInterpolationV4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSystemSolverV3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinearSystemSolverV4.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumericalMethods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumericalMethodsVar3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumericalMethodsVar4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Owner.executor&quot;: &quot;Run&quot;,
     &quot;Application.RootSeparation.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Task10_hollowPyramid.executor&quot;: &quot;Run&quot;,
@@ -120,36 +197,34 @@
     &quot;Application.sdf.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/developer/Documents/RedRoverSchool&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CarsLab1">
-    <configuration name="Cars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Cars" />
-      <module name="RedRoverSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CarsLab1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA_OOP_University.Cars.CarsLab1" />
-      <module name="RedRoverSchool" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EmployeeLab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA_OOP_Mititelu.Employee.DiferentFiles.DiferentFile.EmployeeLab2" />
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="JAVA_OOP_University.Iulian.Lab5" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="MetodeNumericeDeCalcul" />
+      <recent name="JAVA_OOP_University.Iulian" />
+      <recent name="JAVA_OOP_University.Iulian.Employee" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.NumericalMethodsVar4">
+    <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW.HW1.HW1" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVA_OOP_Mititelu.Employee.DiferentFiles.DiferentFile.*" />
+          <option name="PATTERN" value="HW.HW1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeePart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA_OOP_University.Employee.Incapsulation.EmployeePart2" />
+    <configuration name="LagrangeInterpolationV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodeNumericeDeCalcul.HW_Iulian.Lab3.LagrangeInterpolationV3" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVA_OOP_University.Employee.Incapsulation.*" />
+          <option name="PATTERN" value="MetodeNumericeDeCalcul.HW_Iulian.Lab3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +245,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JAVA_OOP_University.Employee.DiferentFiles.EmployeeLab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA_OOP_University.Employee.DiferentFiles.EmployeeLab2" />
+    <configuration name="LagrangeInterpolationV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodeNumericeDeCalcul.HW_Natalia.Lab3.LagrangeInterpolationV4" />
       <module name="RedRoverSchool" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JAVA_OOP_University.Employee.DiferentFiles.*" />
+          <option name="PATTERN" value="MetodeNumericeDeCalcul.HW_Natalia.Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinearSystemSolverV4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodeNumericeDeCalcul.HW_Natalia.Lab2.LinearSystemSolverV4" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MetodeNumericeDeCalcul.HW_Natalia.Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumericalMethodsVar4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MetodeNumericeDeCalcul.HW_Natalia.Lab1.NumericalMethodsVar4" />
+      <module name="RedRoverSchool" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MetodeNumericeDeCalcul.HW_Natalia.Lab1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,29 +285,21 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Cars" />
-      <item itemvalue="Application.CarsLab1" />
-      <item itemvalue="Application.EmployeeLab2" />
-      <item itemvalue="Application.EmployeePart2" />
-      <item itemvalue="Application.JAVA_OOP_University.Employee.DiferentFiles.EmployeeLab2" />
+      <item itemvalue="Application.HW1" />
+      <item itemvalue="Application.LagrangeInterpolationV3" />
+      <item itemvalue="Application.LagrangeInterpolationV4" />
+      <item itemvalue="Application.LinearSystemSolverV4" />
+      <item itemvalue="Application.NumericalMethodsVar4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CarsLab1" />
-        <item itemvalue="Application.EmployeePart2" />
-        <item itemvalue="Application.JAVA_OOP_University.Employee.DiferentFiles.EmployeeLab2" />
-        <item itemvalue="Application.EmployeeLab2" />
-        <item itemvalue="Application.Cars" />
+        <item itemvalue="Application.NumericalMethodsVar4" />
+        <item itemvalue="Application.HW1" />
+        <item itemvalue="Application.LagrangeInterpolationV4" />
+        <item itemvalue="Application.LagrangeInterpolationV3" />
+        <item itemvalue="Application.LinearSystemSolverV4" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
-      </set>
-    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

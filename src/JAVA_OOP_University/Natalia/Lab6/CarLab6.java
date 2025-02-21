@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Natalia;
+package JAVA_OOP_University.Natalia.Lab6;
 
 import JAVA_OOP_University.Natalia.Cars.CarsLab1;
 import java.util.*;

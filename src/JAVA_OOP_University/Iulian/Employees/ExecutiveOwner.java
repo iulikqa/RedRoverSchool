@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Iulian.Employee.DiferentFiles;
+package JAVA_OOP_University.Iulian.Employees;
 
 // Класс ExecutiveOwner наследует Owner
 public class ExecutiveOwner extends Owner {

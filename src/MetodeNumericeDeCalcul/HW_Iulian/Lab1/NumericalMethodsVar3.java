@@ -1,6 +1,8 @@
+package MetodeNumericeDeCalcul.HW_Iulian.Lab1;
+
 import java.util.function.Function;
 
-public class NumericalMethods {
+public class NumericalMethodsVar3 {
     static final double EPSILON1 = 1e-2;
     static final double EPSILON2 = 1e-6;
 
@@ -53,14 +55,14 @@ public class NumericalMethods {
     }
 
     public static void main(String[] args) {
-        double root1_bisect = bisection(NumericalMethods::f1, -10, 10, EPSILON1);
-        double root2_bisect = bisection(NumericalMethods::f2, -10, 10, EPSILON1);
+        double root1_bisect = bisection(NumericalMethodsVar3::f1, -10, 10, EPSILON1);
+        double root2_bisect = bisection(NumericalMethodsVar3::f2, -10, 10, EPSILON1);
 
-        double root1_newton = newton(NumericalMethods::f1, NumericalMethods::df1, 0, EPSILON2);
-        double root2_newton = newton(NumericalMethods::f2, NumericalMethods::df2, 0, EPSILON2);
+        double root1_newton = newton(NumericalMethodsVar3::f1, NumericalMethodsVar3::df1, 0, EPSILON2);
+        double root2_newton = newton(NumericalMethodsVar3::f2, NumericalMethodsVar3::df2, 0, EPSILON2);
 
-        double root1_secant = secant(NumericalMethods::f1, -10, 10, EPSILON2);
-        double root2_secant = secant(NumericalMethods::f2, -10, 10, EPSILON2);
+        double root1_secant = secant(NumericalMethodsVar3::f1, -10, 10, EPSILON2);
+        double root2_secant = secant(NumericalMethodsVar3::f2, -10, 10, EPSILON2);
 
         System.out.println("Rezultate pentru f1(x) = e^x + 3x");
         System.out.println("Bisection: " + root1_bisect);

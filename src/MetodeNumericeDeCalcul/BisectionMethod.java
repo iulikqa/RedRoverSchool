@@ -1,3 +1,5 @@
+package MetodeNumericeDeCalcul;
+
 import java.util.function.Function;
 public class BisectionMethod {
     // Метод бисекции

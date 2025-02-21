@@ -1,4 +1,4 @@
-package JAVA_OOP_University.Iulian.Employees.Lab4;
+package JAVA_OOP_University.Iulian.Lab4;
 
 // Демонстрация полиморфизма
 public class GeometryTest {

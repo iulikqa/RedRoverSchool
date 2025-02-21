@@ -1,6 +1,8 @@
+package MetodeNumericeDeCalcul.HW_Natalia.Lab2;
+
 import java.util.Arrays;
 
-public class LinearSystemSolverV3 {
+public class LinearSystemSolverV4 {
 
     // Metoda eliminării lui Gauss
     public static double[] gaussElimination(double[][] A, double[] b) {
@@ -80,20 +82,36 @@ public class LinearSystemSolverV3 {
     }
 
     public static void main(String[] args) {
-        double[][] A = {
+        double[][] A1 = {
                 {10.6, 0.4, 0.7, 0.8},
                 {0.4, 9.7, 0.3, 0.6},
                 {0.7, 0.3, 14.9, 0.3},
                 {0.8, 0.6, 0.3, 8.1}
         };
-        double[] b = {9.2, 11.9, 10.3, 7.2};
+        double[] b1 = {9.2, 11.9, 10.3, 7.2};
 
-        // Rezolvare cu Gauss
-        double[] solutionGauss = gaussElimination(A, b);
-        System.out.println("Solutie Gauss: " + Arrays.toString(solutionGauss));
+        double[][] A2 = {
+                {9.9, 6.0, 2.0, 0.8},
+                {6.0, 11.7, 7.0, 0.9},
+                {2.0, 7.0, 14.5, 1.1},
+                {0.8, 0.9, 1.1, 23.6}
+        };
+        double[] b2 = {1.2, 4.7, 0.9, 1.2};
 
-        // Rezolvare cu Jacobi
-        double[] solutionJacobi = jacobiMethod(A, b, 1e-3, 100);
-        System.out.println("Solutie Jacobi: " + Arrays.toString(solutionJacobi));
+        // Rezolvare cu Gauss pentru sistemul 3
+        double[] solutionGauss1 = gaussElimination(A1, b1);
+        System.out.println("Solutie Gauss (Sistem 3): " + Arrays.toString(solutionGauss1));
+
+        // Rezolvare cu Jacobi pentru sistemul 3
+        double[] solutionJacobi1 = jacobiMethod(A1, b1, 1e-3, 100);
+        System.out.println("Solutie Jacobi (Sistem 3): " + Arrays.toString(solutionJacobi1));
+
+        // Rezolvare cu Gauss pentru sistemul 4
+        double[] solutionGauss2 = gaussElimination(A2, b2);
+        System.out.println("Solutie Gauss (Sistem 4): " + Arrays.toString(solutionGauss2));
+
+        // Rezolvare cu Jacobi pentru sistemul 4
+        double[] solutionJacobi2 = jacobiMethod(A2, b2, 1e-3, 100);
+        System.out.println("Solutie Jacobi (Sistem 4): " + Arrays.toString(solutionJacobi2));
     }
 }

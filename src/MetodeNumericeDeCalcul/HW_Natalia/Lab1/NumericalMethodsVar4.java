@@ -1,3 +1,5 @@
+package MetodeNumericeDeCalcul.HW_Natalia.Lab1;
+
 import java.util.function.Function;
 
 public class NumericalMethodsVar4 {

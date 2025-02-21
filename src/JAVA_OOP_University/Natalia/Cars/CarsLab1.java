@@ -1,16 +1,15 @@
-package JAVA_OOP_University.Cars;
+package JAVA_OOP_University.Natalia.Cars;
 
-public class CarsLab1 {
+import java.io.Serializable;
 
-    //    Приватные поля
+public class CarsLab1 implements Serializable {
+    private static final long serialVersionUID = 1L;
     private String number;
     private String brend;
     private String model;
     private String color;
     private String country;
     private double price;
-
-//    Конструктор
 
     public CarsLab1(String number, String brend, String model, String color, String country, double price) {
         this.number = number;

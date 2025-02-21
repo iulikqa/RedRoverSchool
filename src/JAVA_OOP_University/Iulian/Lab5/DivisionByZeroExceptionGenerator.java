@@ -1,4 +1,10 @@
 package JAVA_OOP_University.Iulian.Lab5;
 
-public class DivisionByZeroExceptionGenerator {
+// Деление на ноль
+class DivisionByZeroExceptionGenerator extends ExceptionGenerator {
+    @Override
+    public void generate() {
+        System.out.println("Тест: Деление на ноль.");
+        int result = 50 / 0; // Вызовет ArithmeticException
+    }
 }
